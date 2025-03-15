@@ -1,0 +1,8 @@
+{{ $name := .Get 0 }}
+{{ $size := .Get 1 | default "24" }}
+
+<span style="display: inline-block; vertical-align: text-bottom; position: relative; height: 1.15em; width: 1.15em;">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    {{ partial "icon" (dict "name" $name "ctx" .) }}
+  </svg>
+</span>

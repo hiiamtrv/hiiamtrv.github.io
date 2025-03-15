@@ -17,3 +17,33 @@ _site/
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 .idea
+
+# Hugo generated files
+/public/
+/resources/
+/hugo_stats.json
+
+
+# Logs and backups
+*.log
+*.bak
+
+# Temporary files and system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+
+# Dependency directories
+/node_modules/
+/vendor/
+
+# Local Hugo caches
+/cache/
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# macOS metadata
+._*

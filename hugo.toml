@@ -1,0 +1,45 @@
+#baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'hiiamtrv'
+theme = "m10c"
+
+[pagination]
+    pagerSize = 8
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 2
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/posts/my-resume//"
+        weight = 3
+
+[params]
+    author = "Vo Thanh Trung"
+    description = "Former Game Engineer at Sky Mavis"
+    avatar = "images/avatar-now.jpg" # Add an avatar image in static/images/
+    backgroundColor = "#ffffff"
+    accentColor = "#ff6600"
+    showMenuItems = 2
+    homeTitle = "Hello World"
+    [[params.social]]
+        icon = "brand-github"
+        name = "Github"
+        url = "https://github.com/hiiamtrv"
+    [[params.social]]
+        icon = "brand-linkedin"
+        name = "Linkedin"
+        url = "https://linkedin.com/in/hiiamtrv"
+    [[params.social]]
+        icon = "brand-leetcode"
+        name = "Leetcode"
+        url = "https://leetcode.com/u/hiiamtrv/"
