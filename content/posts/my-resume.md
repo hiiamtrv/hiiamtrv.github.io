@@ -14,7 +14,7 @@ TRUNG VO THANH
 
 |                                                                                    |                                             | 
 |:-----------------------------------------------------------------------------------|--------------------------------------------:| 
-| {{<icon "github">}} [hiiamtrv.github.io](https://example.com/)                     |   {{<icon "smartphone">}} (+84) 36 397 5124 | 
+| {{<icon "github">}} [hiiamtrv.github.io](https://hiiamtrv.github.io)               |            {{<icon "smartphone">}} *hidden* | 
 | {{<icon "linkedin">}} [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv) | {{<icon "home">}} Ho Chi Minh City, Vietnam | 
 
 ---
