@@ -14,7 +14,8 @@ TRUNG VO THANH
 
 |                                                                                    |                                             | 
 |:-----------------------------------------------------------------------------------|--------------------------------------------:| 
-| {{<icon "github">}} [hiiamtrv.github.io](https://hiiamtrv.github.io)               |            {{<icon "smartphone">}} *hidden* | 
+| {{<icon "website">}} [hiiamtrv.github.io](https://hiiamtrv.github.io)              |                                             | 
+| {{<icon "github">}} [github.com/hiiamtrv](https://github.com/hiiamtrv)             |            {{<icon "smartphone">}} *hidden* | 
 | {{<icon "linkedin">}} [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv) | {{<icon "home">}} Ho Chi Minh City, Vietnam | 
 
 ---
@@ -30,14 +31,14 @@ TRUNG VO THANH
 
 ### WORK EXPERIENCE
 
-| **Game Engineering Specialist, Sky Mavis Vietnam** | *March 2023 – November 2024** |
-|:---------------------------------------------------|------------------------------:|
+| **Game Engineering Specialist, Sky Mavis Vietnam** | *March 2023 – November 2024* |
+|:---------------------------------------------------|-----------------------------:|
 
 - Contributed to an MMO prototype named "Project T Prototype".
 - Built social town features and competitive mini-games using Cocos Creator & TypeScript.
 - Developed bi-weekly "Confetti" events, drawing ~200 players to the town hall.
 - Conducted R&D in Unity, learning ECS, gRPC, WebSocket, Redis, and ORM.
-- Created 3 internal tools, improving team efficiency for future projects.k
+- Created 3 internal tools, improving team efficiency for future projects.
 
 | **Software Developer, VNG Corporation** | *May 2021 - January 2023* |
 |:----------------------------------------|--------------------------:|
@@ -102,7 +103,7 @@ Problem Solving (Intermediate) Certificate | HackerRank (February
 
 International Collegiate Programming Contest (ICPC) Certifications: https://icpc.global/ICPCID/U32TSZ8TCSTX
 
-ChinChón monthly event introduction on Facebook: https://fb.watch/xwea9vzxt2/
+"ChinChón" monthly event introduction on Facebook: https://fb.watch/xwea9vzxt2/
 
 Project T Prototype: First Look:
 
