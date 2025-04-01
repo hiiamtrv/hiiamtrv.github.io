@@ -1,10 +1,10 @@
 +++
 draft = false
-title = '[WIP] Demo: Sniper Showdown'
-tags = ['Demo', 'Pinned', "WIP"]
+title = 'WIP Project: Sniper Showdown'
+tags = ['Demo', 'Pinned', 'WIP', 'Unity', 'Fishnet', 'Golang', 'Docker']
 categories = ['Demo']
-description = "Demo: Sniper Showdown"
-weight = 0
+description = "Showcase of my WIP multiplayer game: Sniper Showdown"
+weight = 1
 +++
 
 ## TECH STACK

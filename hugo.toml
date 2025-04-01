@@ -18,15 +18,15 @@ theme = "m10c"
         url = "/"
         weight = 2
     [[menu.main]]
-        identifier = "categories"
-        name = "Categories"
-        url = "/categories/"
-        weight = 2
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 3
     [[menu.main]]
         identifier = "about"
         name = "About"
         url = "/posts/my-resume//"
-        weight = 2
+        weight = 4
 
 [params]
     author = "Vo Thanh Trung"
