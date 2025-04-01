@@ -1,9 +1,10 @@
 +++
 draft = false
 title = 'My Resume'
-tags = ['Profile', 'Resume']
+tags = ['Profile', 'Resume', 'Pinned']
 categories = ['Profile']
 description = "My markdown Resumé"
+weight = 1
 +++
 
 TRUNG VO THANH

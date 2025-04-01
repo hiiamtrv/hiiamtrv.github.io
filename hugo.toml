@@ -10,18 +10,23 @@ theme = "m10c"
     [[menu.main]]
         identifier = "home"
         name = "Home"
-        url = "/"
+        url = "/tags/pinned/"
         weight = 1
     [[menu.main]]
-        identifier = "categories"
-        name = "Categories"
-        url = "/categories/"
+        identifier = "all-posts"
+        name = "All Posts"
+        url = "/"
         weight = 2
+    [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 3
     [[menu.main]]
         identifier = "about"
         name = "About"
         url = "/posts/my-resume//"
-        weight = 3
+        weight = 4
 
 [params]
     author = "Vo Thanh Trung"
