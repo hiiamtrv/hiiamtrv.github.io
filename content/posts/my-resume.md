@@ -13,11 +13,12 @@ TRUNG VO THANH
 | *Game Engineer* |           
 |:---------------:|
 
-|                                                                                    |                                             | 
-|:-----------------------------------------------------------------------------------|--------------------------------------------:| 
-| {{<icon "website">}} [hiiamtrv.github.io](https://hiiamtrv.github.io)              |                                             | 
-| {{<icon "github">}} [github.com/hiiamtrv](https://github.com/hiiamtrv)             |            {{<icon "smartphone">}} *hidden* | 
-| {{<icon "linkedin">}} [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv) | {{<icon "home">}} Ho Chi Minh City, Vietnam | 
+|                                                                                                |                                             | 
+|:-----------------------------------------------------------------------------------------------|--------------------------------------------:| 
+| {{<icon "brand-homepage">}} [hiiamtrv.github.io](https://hiiamtrv.github.io)                   |                                             | 
+| {{<icon "brand-github">}} [github.com/hiiamtrv](https://github.com/hiiamtrv)                   |                                             | 
+| {{<icon "brand-leetcode">}} [leetcode.com/u/hiiamtrv](https://leetcode.com/u/hiiamtrv) |            {{<icon "smartphone">}} *hidden* | 
+| {{<icon "brand-linkedin">}} [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv)       | {{<icon "home">}} Ho Chi Minh City, Vietnam | 
 
 ---
 
