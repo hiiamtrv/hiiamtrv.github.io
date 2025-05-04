@@ -3,7 +3,7 @@ draft = false
 title = 'WIP Project: Sniper Showdown'
 tags = ['Demo', 'Pinned', 'WIP', 'Unity', 'Fishnet', 'Golang', 'Docker']
 categories = ['Demo']
-description = "Showcase of my WIP multiplayer game: Sniper Showdown"
+description = "Showcase of my WIP multiplayer game: Sniper Showdown. Implementing my multiplayer development solution and architecture."
 weight = 1
 +++
 

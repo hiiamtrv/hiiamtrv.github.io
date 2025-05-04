@@ -1,24 +1,26 @@
 +++
 draft = false
-title = 'My Resume'
-tags = ['Profile', 'Resume', 'Pinned']
+title = 'Resume: TRUNG, VO THANH'
+tags = ['Profile', 'Resume', 'Pinned', 'PDF']
 categories = ['Profile']
-description = "My markdown Resumé"
+description = "Trung Vo Thanh (Võ Thành Trung) 's resume, written in customized Markdown"
 weight = 1
 +++
+
+> For downloadable version, click **[here
+](https://drive.google.com/file/d/1ZQ8VKRoQHGO7aX035VG61xYpsUImehsL/view?usp=sharing)**.
 
 TRUNG VO THANH
 ======
 
-| *Game Engineer* |           
-|:---------------:|
+|      *Game Engineer*      |           
+|:-------------------------:|
+| Ho Chi Minh City, Vietnam |           
 
-|                                                                                                |                                             | 
-|:-----------------------------------------------------------------------------------------------|--------------------------------------------:| 
-| {{<icon "brand-homepage">}} [hiiamtrv.github.io](https://hiiamtrv.github.io)                   |                                             | 
-| {{<icon "brand-github">}} [github.com/hiiamtrv](https://github.com/hiiamtrv)                   |                                             | 
-| {{<icon "brand-leetcode">}} [leetcode.com/u/hiiamtrv](https://leetcode.com/u/hiiamtrv) |            {{<icon "smartphone">}} *hidden* | 
-| {{<icon "brand-linkedin">}} [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv)       | {{<icon "home">}} Ho Chi Minh City, Vietnam | 
+|                                                                                              |                                                                                                    | 
+|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------| 
+| {{<icon "brand-homepage">}} Github Page: [hiiamtrv.github.io](https://hiiamtrv.github.io)    | {{<icon "brand-leetcode">}} LeetCode: [leetcode.com/u/hiiamtrv](https://leetcode.com/u/hiiamtrv)   | 
+| {{<icon "brand-github">}} Github Account: [github.com/hiiamtrv](https://github.com/hiiamtrv) | {{<icon "brand-linkedin">}} Linkedin: [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv) | 
 
 ---
 
@@ -33,14 +35,25 @@ TRUNG VO THANH
 
 ### WORK EXPERIENCE
 
+| **Independent Game Developer** | *December 2024 – present* |
+|:-------------------------------|--------------------------:|
+
+- Researching and developing a infrastructure solution for multiplayer game development, showcased through the prototype
+  Sniper Showdown.
+- Serving as founding engineer for a game startup, building publish-ready versions and implementing complex flows for
+  player and AI using a state-based architecture, designed for multiplayer support.
+- Conducting research and developing playable prototypes for multiplayer and casual games.
+
 | **Game Engineering Specialist, Sky Mavis Vietnam** | *March 2023 – November 2024* |
 |:---------------------------------------------------|-----------------------------:|
 
 - Contributed to an MMO prototype named "Project T Prototype".
-- Built social town features and competitive mini-games using Cocos Creator & TypeScript.
-- Developed bi-weekly "Confetti" events, drawing ~200 players to the town hall.
-- Conducted R&D in Unity, learning ECS, gRPC, WebSocket, Redis, and ORM.
-- Created 3 internal tools, improving team efficiency for future projects.
+- Fully developed bi-weekly "Confetti" events that attracted ~200 players to social town hall sessions, alongside daily
+  competitive multiplayer mini-games.
+- Conducted research and development efforts using ECS, gRPC, WebSocket, Redis, and ORM to enhance game development
+  solutions.
+- Created 3 internal tools for seamless integration with Game Designers, boosting development efficiency for incoming
+  features.
 
 | **Software Developer, VNG Corporation** | *May 2021 - January 2023* |
 |:----------------------------------------|--------------------------:|
@@ -74,17 +87,12 @@ TRUNG VO THANH
 
 ### SKILLS
 
-**Programming Languages:** C#, C++, JS/TS
-
-**Algorithms and Data Structures**
-
-**Front end:** Unity, Cocos, Node.js
-
-**Back end:** Colyseus, Websocket, Netcode for Game Objects
-
-**Tools:** Git
-
-**Languages:** English, Vietnamese
+|                                                   |                                                                     | 
+|:--------------------------------------------------|:--------------------------------------------------------------------| 
+| **Programming Languages:** C#, C++, JS/TS, Golang | **Front-end:** Unity, Cocos, Node.js, Unreal (BP/C++)               | 
+| **Algorithms and Data Structures**                | **Back-end solutions:** Colyseus, Netcode for Game Objects, Fishnet | 
+| **Tools:** Git                                    | **Back-end transportations:** Rest APIs, Websocket, gRPC            | 
+| **Languages:** English, Vietnamese                | **Data storages:** Firebase, Redis, SQL (via ORM)                   | 
 
 ---
 
@@ -111,3 +119,4 @@ Project T Prototype: First Look:
 
 * https://youtu.be/HZrhGZXEnho?si=RonhRYgXoQgPgDI9
 * https://youtu.be/gWABKmmWY98?si=UZrrKDzWikXrWKd2
+
