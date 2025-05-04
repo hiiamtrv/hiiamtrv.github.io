@@ -1,9 +1,9 @@
 +++
 draft = false
-title = 'Multiplayer test with Netcode for GameObjects'
+title = 'Studycase: Multiplayer test with Netcode for GameObjects'
 tags = ['Test', 'Pinned', 'Unity', 'Netcode']
 categories = ['Test']
-description = "A studycase project as an entry test for a company"
+description = "A studycase project as an entry test for a company. Showcasing realtime players interacting via a shared room."
 +++
 
 ## PROJECT LINK
