@@ -1,6 +1,6 @@
 +++
 draft = false
-title = 'Studycase: Topdowm 3D Zombie shooter with Unity'
+title = 'Studycase: Topdown 3D Zombie shooter with Unity'
 tags = ['Test', 'Pinned', 'Unity', 'Topdown', '3D', 'Shooter']
 categories = ['Test']
 description = "A studycase project as an entry test for a company. Showcasing 2 levels of player fighting waves of zombies with different weapons"
