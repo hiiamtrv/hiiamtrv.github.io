@@ -17,10 +17,11 @@ TRUNG VO THANH
 |:-------------------------:|
 | Ho Chi Minh City, Vietnam |           
 
-|                                                                                              |                                                                                                    | 
-|:---------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------| 
-| {{<icon "brand-homepage">}} Github Page: [hiiamtrv.github.io](https://hiiamtrv.github.io)    | {{<icon "brand-leetcode">}} LeetCode: [leetcode.com/u/hiiamtrv](https://leetcode.com/u/hiiamtrv)   | 
-| {{<icon "brand-github">}} Github Account: [github.com/hiiamtrv](https://github.com/hiiamtrv) | {{<icon "brand-linkedin">}} Linkedin: [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv) | 
+|                                                                                                                          |                                                                                                    | 
+|:-------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------| 
+| {{<icon "brand-homepage">}} Github Page: [hiiamtrv.github.io](https://hiiamtrv.github.io)                                | {{<icon "brand-leetcode">}} LeetCode: [leetcode.com/u/hiiamtrv](https://leetcode.com/u/hiiamtrv)   | 
+| {{<icon "brand-github">}} Github Account: [github.com/hiiamtrv](https://github.com/hiiamtrv)                             | {{<icon "brand-linkedin">}} Linkedin: [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv) | 
+| {{<icon "award">}} ICPC Certificates: [icpc.global/ICPCID/U32TSZ8TCSTX](https://icpc.global/ICPCID/U32TSZ8TCSTX) |                                                                                                    | 
 
 ---
 
@@ -96,22 +97,26 @@ TRUNG VO THANH
 
 ---
 
-### COURSES
+### CERTIFICATES
 
-Android Graphics with OpenGL ES, Coursera | Imperial College London (April
+- Certificate of Achievement – 47th Place | ICPC Vietnam National Programming Contest
+2019 [Link](https://icpc.global/ICPCID/U32TSZ8TCSTX)
+
+- Certificate of Achievement – 35th Place | ICPC Asia Hanoi Vietnam National Programming Contest
+2018 [Link](https://icpc.global/ICPCID/U32TSZ8TCSTX)
+
+- Android Graphics with OpenGL ES, Coursera | Imperial College London (April
 2023): [Link](https://www.coursera.org/account/accomplishments/verify/R9MCVY5Y6LN4)
 
-JavaScript (Intermediate) Certificate | HackerRank (March
+- JavaScript (Intermediate) Certificate | HackerRank (March
 2021): [Link](https://www.hackerrank.com/certificates/1b7b554fa729)
 
-Problem Solving (Intermediate) Certificate | HackerRank (February
+- Problem Solving (Intermediate) Certificate | HackerRank (February
 2021): [Link](https://www.hackerrank.com/certificates/14b75516ff62)
 
 --- 
 
 ### REFERENCE LINKS
-
-International Collegiate Programming Contest (ICPC) Certifications: https://icpc.global/ICPCID/U32TSZ8TCSTX
 
 "ChinChón" monthly event introduction on Facebook: https://fb.watch/xwea9vzxt2/
 
