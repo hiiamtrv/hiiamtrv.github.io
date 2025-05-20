@@ -17,20 +17,25 @@ TRUNG VO THANH
 |:-------------------------:|
 | Ho Chi Minh City, Vietnam |           
 
-|                                                                                                                          |                                                                                                    | 
-|:-------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------| 
-| {{<icon "brand-homepage">}} Github Page: [hiiamtrv.github.io](https://hiiamtrv.github.io)                                | {{<icon "brand-leetcode">}} LeetCode: [leetcode.com/u/hiiamtrv](https://leetcode.com/u/hiiamtrv)   | 
-| {{<icon "brand-github">}} Github Account: [github.com/hiiamtrv](https://github.com/hiiamtrv)                             | {{<icon "brand-linkedin">}} Linkedin: [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv) | 
+|                                                                                                                  |                                                                                                    | 
+|:-----------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------| 
+| {{<icon "brand-homepage">}} Github Page: [hiiamtrv.github.io](https://hiiamtrv.github.io)                        | {{<icon "brand-leetcode">}} LeetCode: [leetcode.com/u/hiiamtrv](https://leetcode.com/u/hiiamtrv)   | 
+| {{<icon "brand-github">}} Github Account: [github.com/hiiamtrv](https://github.com/hiiamtrv)                     | {{<icon "brand-linkedin">}} Linkedin: [linkedin.com/in/hiiamtrv](https://linkedin.com/in/hiiamtrv) | 
 | {{<icon "award">}} ICPC Certificates: [icpc.global/ICPCID/U32TSZ8TCSTX](https://icpc.global/ICPCID/U32TSZ8TCSTX) |                                                                                                    | 
 
 ---
 
 ### SUMMARY
 
-> A Game Engineering Specialist with dynamic experience in game development, dedicated to crafting immersive multiplayer
-> experiences that foster player connections. Proficient in Unity C# and skilled in algorithms and data structures,
-> consistently implementing innovative features that enhance gameplay and engagement. Passionate about leveraging
-> technical skills to create open game worlds that encourage players creativity and future changes.
+> Versatile Game Engineer with 4+ years of experience developing multiplayer and casual games across various platforms
+> and
+> project scopes. Brings a generalist mindset with a solid foundation in software engineering, enabling effective
+> contributions to
+> gameplay systems, AI, networking, and player experience improvements. Experienced in collaborating with
+> cross-functional
+> teams, maintaining high development standards. Known for adaptability, problem-solving skills, and a strong commitment
+> to
+> pushing the boundaries of game development through creativity and technical proficiency.
 
 ---
 
@@ -39,11 +44,14 @@ TRUNG VO THANH
 | **Independent Game Developer** | *December 2024 – present* |
 |:-------------------------------|--------------------------:|
 
-- Researching and developing a infrastructure solution for multiplayer game development, showcased through the prototype
-  Sniper Showdown.
-- Serving as founding engineer for a game startup, building publish-ready versions and implementing complex flows for
-  player and AI using a state-based architecture, designed for multiplayer support.
-- Conducting research and developing playable prototypes for multiplayer and casual games.
+- Researching and developing the prototype Sniper Showdown, showcasing a full-scale client-server
+  infrastructure with integrated Game Client, Game Server, and Lobby Server modules. Using multiple
+  technologies: Unity, Fishnet Network, Golang Gin Server, WebSocket, Docker.
+- Acting as founding engineer for an international game startup, delivering publish-ready builds and
+  implementing complex player and AI flows using a state-based architecture, purpose-built for multiplayer
+  support. Completed the prototype in just 10 days, with only one major bug as the most serious issue.
+- Making playable prototypes for multiplayer and casual games, focusing on game play innovation and
+  networked performance. Conducting research and developing playable prototypes for multiplayer and casual games.
 
 | **Game Engineering Specialist, Sky Mavis Vietnam** | *March 2023 – November 2024* |
 |:---------------------------------------------------|-----------------------------:|
@@ -100,19 +108,19 @@ TRUNG VO THANH
 ### CERTIFICATES
 
 - Certificate of Achievement – 47th Place | ICPC Vietnam National Programming Contest
-2019 [Link](https://icpc.global/ICPCID/U32TSZ8TCSTX)
+  2019 [Link](https://icpc.global/ICPCID/U32TSZ8TCSTX)
 
 - Certificate of Achievement – 35th Place | ICPC Asia Hanoi Vietnam National Programming Contest
-2018 [Link](https://icpc.global/ICPCID/U32TSZ8TCSTX)
+  2018 [Link](https://icpc.global/ICPCID/U32TSZ8TCSTX)
 
 - Android Graphics with OpenGL ES, Coursera | Imperial College London (April
-2023): [Link](https://www.coursera.org/account/accomplishments/verify/R9MCVY5Y6LN4)
+  2023): [Link](https://www.coursera.org/account/accomplishments/verify/R9MCVY5Y6LN4)
 
 - JavaScript (Intermediate) Certificate | HackerRank (March
-2021): [Link](https://www.hackerrank.com/certificates/1b7b554fa729)
+  2021): [Link](https://www.hackerrank.com/certificates/1b7b554fa729)
 
 - Problem Solving (Intermediate) Certificate | HackerRank (February
-2021): [Link](https://www.hackerrank.com/certificates/14b75516ff62)
+  2021): [Link](https://www.hackerrank.com/certificates/14b75516ff62)
 
 --- 
 

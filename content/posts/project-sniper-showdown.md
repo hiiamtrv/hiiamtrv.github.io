@@ -7,6 +7,12 @@ description = "Showcase of my WIP multiplayer game: Sniper Showdown. Implementin
 weight = 1
 +++
 
+## VERSIONS
+> The project is still in development with conceptual gameplay experiment. I will try to make the game better everyday.
+> Big thank for anyone who supporting me <3 
+> 
+* [**WebGL version**](https://play.unity.com/en/games/2454ad95-0d65-406a-b25c-2aa0fb61dafd/sniper-showdown)
+
 ## TECH STACK
 
 |                          |                                    | 
