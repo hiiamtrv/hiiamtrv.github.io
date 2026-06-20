@@ -38,16 +38,11 @@ Built in under **12 hours** using **imperative AI guidance** — every feature w
 
 ## LIVE DEMO
 
-<div style="position:relative;width:100%;max-width:900px;margin:1rem 0;">
+[![Open app](https://dapper-crumble-ee4d9a.netlify.app/favicon.ico)](https://dapper-crumble-ee4d9a.netlify.app/)
 
-<iframe id="demo-frame" src="https://dapper-crumble-ee4d9a.netlify.app/" style="width:100%;height:500px;border:1px solid #444;border-radius:6px;" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://dapper-crumble-ee4d9a.netlify.app/" width="100%" height="500" style="border:1px solid #444;border-radius:6px;max-width:900px;display:block;" loading="lazy"></iframe>
 
-<div style="display:flex;gap:0.5rem;margin-top:0.5rem;">
-  <button onclick="document.getElementById('demo-frame').requestFullscreen()" style="padding:0.4rem 1rem;cursor:pointer;border:1px solid #444;border-radius:4px;background:#222;color:#eee;">⛶ Fullscreen</button>
-  <a href="https://dapper-crumble-ee4d9a.netlify.app/" target="_blank" rel="noopener" style="padding:0.4rem 1rem;border:1px solid #444;border-radius:4px;background:#222;color:#eee;text-decoration:none;">↗ Open in new tab</a>
-</div>
-
-</div>
+↗ [Open in new tab](https://dapper-crumble-ee4d9a.netlify.app/)
 
 ### How to use
 
@@ -71,4 +66,3 @@ Transpose up 2 semitones → `[D] [A] [Bm] [G]` with `I  V  vi IV` (numerals don
 
 - Chords are parsed as root + quality (e.g. `Cm7`, `G#dim`, `F#m7b5`)
 - The Circle of Fifths updates dynamically based on the current key
-- Legend rules are loaded from `chord-function-rules.md`
